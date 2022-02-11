@@ -1,0 +1,15 @@
+artifact_uri: file:///home/elex/fathi/work/tapway/MLflow/mlruns/0/9a876111a1334859961dcaa7ee8b2a59/artifacts
+end_time: 1644461964330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9a876111a1334859961dcaa7ee8b2a59
+run_uuid: 9a876111a1334859961dcaa7ee8b2a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644461960241
+status: 3
+tags: []
+user_id: elex
